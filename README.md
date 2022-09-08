@@ -44,9 +44,9 @@
     <p> This projection appears to accept minimul distortions in all aspects, creates a nice aestheic map that does not change any one aspect drastically but also doesn't preserve any.</p>
     <img src="53018.png"  width='500px'>
    
-   <h2> ESRI 53034-Sphere Equal Areas Cylindrical</h2>
+   <h2> ESRI 54034-Sphere Equal Areas Cylindrical</h2>
    <p>Similar to the mercator but has a drastic distortion at the poles, with no distortion in other places, thus priortizes the tropics and mid latitudes </p>
-    <img src="53034.png"  width='500px'>
+    <img src="54034.png"  width='500px'>
    <h2>ESRI 54027-World Equal Distance Conic</h2> 
    <p> View from north pole, squishes the northern hemisphere and stretches the southern in an interesting flip from tradition, also focuses on europe putting the US and Asia on the sides and cuts off their connection via the pacific ocean</p>
     <img src="54027.png"  width='500px'>
