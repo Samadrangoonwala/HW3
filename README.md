@@ -19,31 +19,29 @@
     <h2>WGS84 Projection</h2>
     <h3>Some observations
         This projection distorts area but conserves direction, it does distort shape but does so in a way that is intuative, by stretching things horizontally.
-
+   <img src="4326.png" alt="WGS84" width='500px'>
+   
     </h3>
     <a href="4326.png">
-    <img src="4326.png" alt="WGS84" width='500px'>
-    </a>
+  </a>
     <h2>Aitoff Projection</h2>
+  <a href=".//maps/54043.png">
+    <img src="54043.png" alt="Aitoff" width='500px'>
     <h3>Some observations
         This projection conserves shape at the expense of everything else, distance, size, and direction. Not my favorite projection in all honesty
     </h3>
-    <a href=".//maps/54043.png">
-    <img src="54043.png" alt="Aitoff" width='500px'>
+   
     </a>
     <h2 style="color:red">Now, you should <u>add the following projections on your own:</u></h2>
 
     <h3>EPSG: 3857, 53018, 54034, 54027, 102016, and two additional projections that you choose.</h3>
 
 <h2>EPSG: 3857 Psuedo Mercator </h2>
-    <p>This projection is very similar to the mercator, It seems to apply more vertical stretch to the poles</p>
-
-    <img src="3857.png"  width='500px'>
-
-    <h2>ESRI 53018 Winkle 1 Projection</h2>
+ <p>This projection is very similar to the mercator, It seems to apply more vertical stretch to the poles</p>
+ <img src="3857.png"  width='500px'>
+   <h2>ESRI 53018 Winkle 1 Projection</h2>
     <p> This projection appears to accept minimul distortions in all aspects, creates a nice aestheic map that does not change any one aspect drastically but also doesn't preserve any.</p>
-    <img src="53018.png"  width='500px'>
-   
+    <img src="53018.png"  width='500px'>   
    <h2> ESRI 54034-Sphere Equal Areas Cylindrical</h2>
    <p>Similar to the mercator but has a drastic distortion at the poles, with no distortion in other places, thus priortizes the tropics and mid latitudes </p>
     <img src="54034.png"  width='500px'>
