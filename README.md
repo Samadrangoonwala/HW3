@@ -8,7 +8,6 @@
 </head>
 <body>
     <h1>In this project I learned how to display images in different projections</h1>
-    
     <h2 style="color:red">Describe in your own words how you displayed the map in different projections using QGIS</h2>
     <p>I downloaded the data from the git.hub website provided, after extracting and opening the shapefile with the base map, 
         I took the map and created a new layer, exporting the entire vector layer as a Geojson with the new projection 
