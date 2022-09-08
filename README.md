@@ -21,7 +21,7 @@
         This projection distorts area but conserves direction, it does distort shape but does so in a way that is intuative, by stretching things horizontally.
 
     </h3>
-    <a href=".//maps/4326.png">
+    <a href="4326.png">
     <img src="4326.png" alt="WGS84" width='500px'>
     </a>
     <h2>Aitoff Projection</h2>
